@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/afb02963-ad28-45d0-8e74-578d9aa67e74" width="100%" alt="MR.XR Banner">
+</div>
 
-<!--
-**MRXR-Dev/MRXR-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   MR.XR  ·  Amir                                    │
+│                                                     │
+│   Game Dev  ·  Web Designer  ·  Software Engineer   │
+│   Co-Founder of INERVOID                            │
+│   Artificial Intelligence & AI Developer            │
+│                                                     │
+│   "Code is for humans to read, machines to run."    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
