@@ -14,6 +14,7 @@
 │   "Code is for humans to read, machines to run."    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
+```
 > [!CAUTION]
 > # About Me
 >
