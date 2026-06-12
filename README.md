@@ -57,3 +57,15 @@
 
 🕹️ **Game Dev** (65%)
 <progress value="65" max="100" width="100%"></progress>
+
+---
+
+<br />
+
+<div align="center">
+  <h3>
+    <code>"Machines outlive flesh, but code outlives time; I don't just build, I leave an empire in the syntax."</code>
+  </h3>
+</div>
+
+<br />
