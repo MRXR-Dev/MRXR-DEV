@@ -28,20 +28,64 @@
 >
 > For me, programming is an art of continuous problem-solving. I am driven by an insatiable curiosity for computing and a commitment to building robust, high-performance software that pushes boundaries.
 
-## Skills
+## 🛠️ Skills & Technologies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Blueprint-0052FF?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-00ff66?style=for-the-badge&logo=python&logoColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00ff66?style=for-the-badge&logo=c&logoColor=0d1117" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00ff66?style=for-the-badge&logo=c%2B%2B&logoColor=0d1117" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-00ff66?style=for-the-badge&logo=html5&logoColor=0d1117" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-00ff66?style=for-the-badge&logo=css3&logoColor=0d1117" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-00ff66?style=for-the-badge&logo=javascript&logoColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-00ff66?style=for-the-badge&logo=nodedotjs&logoColor=0d1117" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Godot-00ff66?style=for-the-badge&logo=godotengine&logoColor=0d1117" alt="Godot" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-00ff66?style=for-the-badge&logo=unrealengine&logoColor=0d1117" alt="Unreal Engine" />
+</p>
+
+<br/>
+
+## 📊 Skill Mastery
+
+<div align="left">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" style="background: #0d1117; border-radius: 8px; padding: 15px; font-family: 'Segoe UI', system-ui, sans-serif;">
+    
+    <g stroke="#00ff66" stroke-width="0.5" opacity="0.1" stroke-dasharray="4 4">
+      <line x1="160" y1="20" x2="160" y2="300" />
+      <line x1="270" y1="20" x2="270" y2="300" />
+      <line x1="380" y1="20" x2="380" y2="300" />
+      <line x1="490" y1="20" x2="490" y2="300" />
+      <line x1="570" y1="20" x2="570" y2="300" />
+    </g>
+
+    <text x="20" y="45" fill="#a8b2d1" font-size="14" font-weight="600">⚙️ Programming</text>
+    <rect x="160" y="32" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
+    <rect x="160" y="32" width="369" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
+    <text x="540" y="45" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">90%</text>
+
+    <text x="20" y="105" fill="#a8b2d1" font-size="14" font-weight="600">🎵 Music</text>
+    <rect x="160" y="92" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
+    <rect x="160" y="92" width="410" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
+    <text x="540" y="105" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">100%</text>
+
+    <text x="20" y="165" fill="#a8b2d1" font-size="14" font-weight="600">🌐 Web &amp; Data</text>
+    <rect x="160" y="152" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
+    <rect x="160" y="152" width="328" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
+    <text x="540" y="165" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">80%</text>
+
+    <text x="20" y="225" fill="#a8b2d1" font-size="14" font-weight="600">🎮 Gaming</text>
+    <rect x="160" y="212" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
+    <rect x="160" y="212" width="307" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
+    <text x="540" y="225" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">75%</text>
+
+    <text x="20" y="285" fill="#a8b2d1" font-size="14" font-weight="600">🕹️ Game Dev</text>
+    <rect x="160" y="272" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
+    <rect x="160" y="272" width="266" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
+    <text x="540" y="285" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">65%</text>
+
+  </svg>
 </div>
+
+<br/>
 
 ## Interests & Mastery
 
