@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="./banner.svg" alt="MR.XR Banner" width="100%" />
+</div>
 
+<br/>
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
