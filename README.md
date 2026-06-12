@@ -28,18 +28,38 @@
 >
 > For me, programming is an art of continuous problem-solving. I am driven by an insatiable curiosity for computing and a commitment to building robust, high-performance software that pushes boundaries.
 
+## 🛠️ Skills
+
 ## 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-00ff66?style=for-the-badge&logo=python&logoColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00ff66?style=for-the-badge&logo=c&logoColor=0d1117" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00ff66?style=for-the-badge&logo=c%2B%2B&logoColor=0d1117" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-00ff66?style=for-the-badge&logo=html5&logoColor=0d1117" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-00ff66?style=for-the-badge&logo=css3&logoColor=0d1117" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-00ff66?style=for-the-badge&logo=javascript&logoColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-00ff66?style=for-the-badge&logo=nodedotjs&logoColor=0d1117" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Godot-00ff66?style=for-the-badge&logo=godotengine&logoColor=0d1117" alt="Godot" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-00ff66?style=for-the-badge&logo=unrealengine&logoColor=0d1117" alt="Unreal Engine" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://v5.getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="50" height="50" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="50" height="50" style="margin-right: 10px;" />
+  </a>
 </p>
 
 <br/>
