@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" style="background: #0d1117; font-family: 'Segoe UI', system-ui, sans-serif;">
+  <style>
+    @keyframes neonGlow {
+      0%, 100% { filter: drop-shadow(0 0 2px #00ff66) drop-shadow(0 0 10px #00ff66); opacity: 0.9; }
+      50% { filter: drop-shadow(0 0 8px #00ff66) drop-shadow(0 0 25px #00ff66); opacity: 1; }
+    }
+    @keyframes moveLines {
+      0% { stroke-dashoffset: 0; }
+      100% { stroke-dashoffset: -40; }
+    }
+    .main-title {
+      fill: #00ff66;
+      font-size: 68px;
+      font-weight: 900;
+      letter-spacing: 14px;
+    }
+    .sub-title {
+      fill: #a8b2d1;
+      font-size: 19px;
+      font-weight: 500;
+      letter-spacing: 4px;
+    }
+    .neon-text {
+      animation: neonGlow 3s ease-in-out infinite;
+    }
+    .cyber-line {
+      stroke: #00ff66;
+      stroke-width: 1.5;
+      stroke-dasharray: 10 5;
+      animation: moveLines 4s linear infinite;
+    }
+  </style>
+
+  <g opacity="0.12">
+    <line x1="0" y1="50" x2="1200" y2="50" class="cyber-line" />
+    <line x1="0" y1="230" x2="1200" y2="230" class="cyber-line" />
+    <circle cx="150" cy="140" r="70" stroke="#00ff66" stroke-width="1" fill="none" />
+    <circle cx="1050" cy="140" r="50" stroke="#00ff66" stroke-width="1" fill="none" />
+  </g>
+
+  <g class="neon-text" transform="translate(600, 135)">
+    <text class="main-title" text-anchor="middle">MR.XR</text>
+  </g>
+
+  <g transform="translate(600, 195)">
+    <text class="sub-title" text-anchor="middle">
+      Software Engineer  ·  Game Developer  ·  Web Designer  ·  AI Developer
+    </text>
+  </g>
+
+  <path d="M 30,25 L 15,25 L 15,40" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M 1170,25 L 1185,25 L 1185,40" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M 30,255 L 15,255 L 15,240" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+  <path d="M 1170,255 L 1185,255 L 1185,240" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+</svg>
