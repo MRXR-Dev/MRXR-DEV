@@ -65,7 +65,7 @@
       <br/><font size="2">Godot</font>
     </td>
     <td align="center" width="80" style="border: none;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal" width="45" height="45" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal" width="45" height="45" style="background: #ffffff; border-radius: 50%;" />
       <br/><font size="2">Unreal</font>
     </td>
   </tr>
