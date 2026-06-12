@@ -1,4 +1,28 @@
-<!-- START HEADER BANNER -->
+<div align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" style="background: #0d1117; border-radius: 8px; font-family: 'Segoe UI', system-ui, sans-serif;">
+    <g opacity="0.15">
+      <line x1="0" y1="50" x2="1200" y2="50" stroke="#00ff66" stroke-width="1.5" stroke-dasharray="10 5" />
+      <line x1="0" y1="230" x2="1200" y2="230" stroke="#00ff66" stroke-width="1.5" stroke-dasharray="10 5" />
+      <circle cx="150" cy="140" r="70" stroke="#00ff66" stroke-width="1" fill="none" />
+      <circle cx="1050" cy="140" r="50" stroke="#00ff66" stroke-width="1" fill="none" />
+    </g>
+
+    <g transform="translate(600, 135)">
+      <text fill="#00ff66" font-size="68" font-weight="900" letter-spacing="14" text-anchor="middle" style="filter: drop-shadow(0 0 12px #00ff66);">MR.XR</text>
+    </g>
+
+    <g transform="translate(600, 195)">
+      <text fill="#a8b2d1" font-size="19" font-weight="500" letter-spacing="4" text-anchor="middle">
+        Software Engineer  ·  Game Developer  ·  Web Designer  ·  AI Developer
+      </text>
+    </g>
+
+    <path d="M 30,25 L 15,25 L 15,40" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+    <path d="M 1170,25 L 1185,25 L 1185,40" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+    <path d="M 30,255 L 15,255 L 15,240" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+    <path d="M 1170,255 L 1185,255 L 1185,240" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
+  </svg>
+</div>
 
 ```text
 ┌─────────────────────────────────────────────────────┐
