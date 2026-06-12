@@ -12,9 +12,7 @@
     </g>
 
     <g transform="translate(600, 195)">
-      <text fill="#a8b2d1" font-size="19" font-weight="500" letter-spacing="4" text-anchor="middle">
-        Software Engineer  ·  Game Developer  ·  Web Designer  ·  AI Developer
-      </text>
+      <text fill="#a8b2d1" font-size="19" font-weight="500" letter-spacing="4" text-anchor="middle">Software Engineer  ·  Game Developer  ·  Web Designer  ·  AI Developer</text>
     </g>
 
     <path d="M 30,25 L 15,25 L 15,40" stroke="#00ff66" stroke-width="2.5" fill="none" opacity="0.6"/>
@@ -24,6 +22,7 @@
   </svg>
 </div>
 
+<br/>
 ```text
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
