@@ -1,6 +1,33 @@
+<!-- START OF ANIMATED VISUAL HEADER -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/afb02963-ad28-45d0-8e74-578d9aa67e74" width="100%" alt="MR.XR Banner">
+  <svg width="800px" height="150px" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Pulse Animation Definition -->
+    <defs>
+      <filter id="neon_glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    
+    <!-- Animated Neon Text MR.XR -->
+    <text x="50%" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="72px" font-weight="bold" fill="#0f0" filter="url(#neon_glow)">
+      MR.XR
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+    </text>
+    
+    <!-- Static Line Below Title -->
+    <line x1="150" y1="100" x2="650" y2="100" stroke="#0f0" stroke-width="2" />
+  </svg>
+  
+  <!-- Static Visual Tagline -->
+  <h3>
+    💡 Software Engineer &bull; Game Developer &bull; AI Developer &bull; Web Designer
+  </h3>
 </div>
+<!-- END OF ANIMATED VISUAL HEADER -->
 
 ```text
 ┌─────────────────────────────────────────────────────┐
