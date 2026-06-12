@@ -40,3 +40,20 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Blueprint-0052FF?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Blueprint" />
 </div>
+
+## Interests & Mastery
+
+⚙️ **Programming** (90%)
+<progress value="90" max="100" width="100%"></progress>
+
+🎵 **Music** (100%)
+<progress value="100" max="100" width="100%"></progress>
+
+🌐 **Web & Data** (80%)
+<progress value="80" max="100" width="100%"></progress>
+
+🎮 **Gaming** (75%)
+<progress value="75" max="100" width="100%"></progress>
+
+🕹️ **Game Dev** (65%)
+<progress value="65" max="100" width="100%"></progress>
