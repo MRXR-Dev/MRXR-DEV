@@ -44,49 +44,6 @@
 
 <br/>
 
-## 📊 Skill Mastery
-
-<div align="left">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 340" width="100%" style="background: #0d1117; border-radius: 8px; padding: 15px; font-family: 'Segoe UI', system-ui, sans-serif;">
-    
-    <g stroke="#00ff66" stroke-width="0.5" opacity="0.1" stroke-dasharray="4 4">
-      <line x1="160" y1="20" x2="160" y2="300" />
-      <line x1="270" y1="20" x2="270" y2="300" />
-      <line x1="380" y1="20" x2="380" y2="300" />
-      <line x1="490" y1="20" x2="490" y2="300" />
-      <line x1="570" y1="20" x2="570" y2="300" />
-    </g>
-
-    <text x="20" y="45" fill="#a8b2d1" font-size="14" font-weight="600">⚙️ Programming</text>
-    <rect x="160" y="32" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
-    <rect x="160" y="32" width="369" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
-    <text x="540" y="45" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">90%</text>
-
-    <text x="20" y="105" fill="#a8b2d1" font-size="14" font-weight="600">🎵 Music</text>
-    <rect x="160" y="92" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
-    <rect x="160" y="92" width="410" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
-    <text x="540" y="105" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">100%</text>
-
-    <text x="20" y="165" fill="#a8b2d1" font-size="14" font-weight="600">🌐 Web &amp; Data</text>
-    <rect x="160" y="152" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
-    <rect x="160" y="152" width="328" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
-    <text x="540" y="165" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">80%</text>
-
-    <text x="20" y="225" fill="#a8b2d1" font-size="14" font-weight="600">🎮 Gaming</text>
-    <rect x="160" y="212" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
-    <rect x="160" y="212" width="307" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
-    <text x="540" y="225" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">75%</text>
-
-    <text x="20" y="285" fill="#a8b2d1" font-size="14" font-weight="600">🕹️ Game Dev</text>
-    <rect x="160" y="272" width="410" height="16" rx="4" fill="#161b22" stroke="#00ff66" stroke-width="0.5" opacity="0.3" />
-    <rect x="160" y="272" width="266" height="16" rx="4" fill="#00ff66" style="filter: drop-shadow(0 0 4px #00ff66);" />
-    <text x="540" y="285" fill="#00ff66" font-size="12" font-weight="bold" text-anchor="end">65%</text>
-
-  </svg>
-</div>
-
-<br/>
-
 ## Interests & Mastery
 
 ⚙️ **Programming** (90%)
