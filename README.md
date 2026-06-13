@@ -33,43 +33,43 @@
 <table border="0">
   <tr>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" />
       <br/><font size="2">Python</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" />
       <br/><font size="2">C</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
       <br/><font size="2">C++</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
       <br/><font size="2">HTML5</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
       <br/><font size="2">CSS3</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
       <br/><font size="2">JavaScript</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
       <br/><font size="2">Node.js</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" alt="Godot" width="45" height="45" />
       <br/><font size="2">Godot</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/unreal-engine.svg" alt="Unreal" width="45" height="45" style="background: #ffffff; border-radius: 50%; padding: 2px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal" width="45" height="45" />
       <br/><font size="2">Unreal</font>
     </td>
     <td align="center" width="85" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/blueprint.svg" alt="Blueprint" width="45" height="45" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Blueprint" width="45" height="45" />
       <br/><font size="2">Blueprint</font>
     </td>
   </tr>
