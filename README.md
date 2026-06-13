@@ -10,7 +10,7 @@
 │   MR.XR  ·  Amir                                    │
 │                                                     │
 │   Game Dev  ·  Web Designer  ·  Software Engineer   │
-│   Co-Founder of INNERVOID                            │
+│   Co-Founder of INNERVOID                           │
 │   Artificial Intelligence & AI Developer            │
 │                                                     │
 │   "Code is for humans to read, machines to run."    │
