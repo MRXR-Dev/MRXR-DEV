@@ -65,11 +65,11 @@
   </a>
   <!-- Unreal Engine -->
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" style="margin: 0 5px; filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="50" height="50" style="margin: 0 5px; background-color: #ffffff; border-radius: 50%; padding: 2px;"/>
   </a>
   <!-- Blueprints -->
   <a href="https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprints-visual-scripting-in-unreal-engine" target="_blank" rel="noreferrer">
-    <img src="https://api.iconify.design/fluent-mdl2:flow.svg?color=%23007acc" alt="Blueprints" width="50" height="50" style="margin: 0 5px;"/>
+    <img src="https://images.squarespace-cdn.com/content/v1/5414bd66e4b0051e515fa01c/1429562725345-5S1KWSBCO4R38D0KSTH4/image-asset.png" alt="Blueprints" width="50" height="50" style="margin: 0 5px; border-radius: 20%; object-fit: cover;"/>
   </a>
 </p>
 
